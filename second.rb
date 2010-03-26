@@ -1,3 +1,1 @@
-sdafsaf sdkfhaslk
-sdf askjdfa
-sdf sa
+This is second ruby file.
